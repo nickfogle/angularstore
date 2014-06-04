@@ -8,7 +8,7 @@ var gems = [
    {
       name: "Dodecahedron",
       price: 21.00,
-      description: "One dose and gravity is all nonsense. oppressive forces that flicker in and out of view like ambassadors from the kind of non-Euclidean occult geometries that drive people insane in H. P. Lovecraft's short stories.",
+      description: "One dose and gravity is all nonsense now. Oppressive forces that flicker in and out of view like ambassadors from the kind of non-Euclidean occult geometries that drive people insane in H. P. Lovecraft's short stories.",
       images: [
          {
             full: 'Dodecahedron-full.jpg',
@@ -30,7 +30,7 @@ var gems = [
    {
       name: "Pyrophosphate",
       price: 37.99,
-      description: "Illegal in 49 States. Synthesized from the bowels of Cherynobyl's quarantine zone. Potent and very effective.",
+      description: "Synthesized from the bowels of Cherynobyl's quarantine zone. Potent and very effective.",
       images: [
          {
             full: 'Pyrophosphate-full.jpg',
